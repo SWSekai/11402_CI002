@@ -1,8 +1,29 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include <sstream>
 
 using namespace std;
+
+class Robot_instruction {
+public:
+    static int parseInstruction(string cmd, const vector<int>& history) {
+		if (cmd == "LEFT") {
+            return -1;
+        }
+        else if (cmd == "RIGHT") {
+            return 1;
+        }
+        else {
+            stringstream ss(cmd);
+            string last, temp;
+            while (ss >> temp) {
+                last = temp; // Get the last word
+            }
+            return history[stoi(last)-1];
+        }
+    }
+};
 
 int main() {
     int test_case;
@@ -10,32 +31,19 @@ int main() {
 
     while (test_case--) {
         int location = 0;
-        vector<int> request_log; // 儲存每次移動的位移量（-1 或 1）
-        int move_count;
+        vector<int> request_log = {};
+        int move_count = 0;
 
         cin >> move_count;
-        cin.ignore(); // 重要：跳過數字後的換行符號
+        cin.ignore();
 
-        for (int i = 0; i < move_count; ++i) {
+        for (int i = 1; i <= move_count; ++i) {
             string request;
             getline(cin, request);
 
-            if (request == "LEFT") {
-                location -= 1;
-                request_log.push_back(-1);
-            }
-            else if (request == "RIGHT") {
-                location += 1;
-                request_log.push_back(1);
-            }
-            else {
-                // 解析 "SAME AS X"
-                // 從索引 8 開始擷取到最後 (即 X 的部分)
-                int index = stoi(request.substr(8));
-                int move = request_log[index - 1];
-                location += move;
-                request_log.push_back(move);
-            }
+			int current_move = Robot_instruction::parseInstruction(request, request_log);
+			location += current_move;
+			request_log.push_back(current_move);
         }
         cout << location << endl;
     }
