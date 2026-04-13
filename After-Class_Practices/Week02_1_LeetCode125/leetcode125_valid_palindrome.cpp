@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-       int i = 0;
-       int j = s.length()-1;
+        int i = 0;
+        int j = s.length()-1;
 
-       while(i<j){
+        while(i<j){
             if(!isalnum(s[i])){
                 i++;
                 continue;
@@ -19,6 +19,6 @@ public:
             i++;
             j--;
         }
-        return true;
+    return true;
     }
 };
