@@ -9,7 +9,7 @@ public:
             {']', '['}
         };
 
-        for (int i = 0; i <= s.length()-1; i++) { // length() 忘記 -1
+        for (int i = 0; i < s.length(); i++) { // length()邊界條件錯誤（已修正）
             if (s[i] == ')' || s[i] == '}' || s[i] == ']') {
                 if (queue.size() == 0) return false;
 
