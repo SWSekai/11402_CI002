@@ -3,19 +3,48 @@
 Hans Chen  
 Student ID: `1110927`
 
-This repository stores coursework and practice files for the C++ programming lab.
+This repository contains C++ programming lab coursework, practice problems, and exam preparation files.
 
-## Structure
+## Project Architecture
 
-- `Before-Class_Exercises/`: LeetCode exercises assigned before class
-- `On-Site_Examinations/`: UVa problems used in on-site practice
-- `After-Class_Practices/`: LeetCode exercises assigned after class
+```text
+11402_CI002/
+|-- Before-Class_Exercises/
+|   `-- Week##_#_LeetCode###/
+|       |-- README.md
+|       `-- src/
+|           `-- *.cpp
+|-- On-Site_Examinations/
+|   `-- Week##_#_UVa#####/
+|       |-- README.md
+|       `-- src/
+|           `-- *.cpp
+|-- After-Class_Practices/
+|   `-- Week##_#_LeetCode###/
+|       |-- README.md
+|       `-- src/
+|           `-- *.cpp
+|-- Midterm/
+|   `-- Regular_#_UVa#####/
+|       `-- src/
+|-- week##/
+|-- .Problems.md
+|-- .project_hierarchy.md
+`-- README.md
+```
 
-## Naming
+## Disclosure
 
-- Folder names follow `Week##_Index_PlatformProblemId`
-- Most problem folders contain a `cpp` source file
-- PDF problem statements are ignored by Git through `.gitignore`
+- Course repository for C++ programming lab practice.
+- Problem assignments and source links are tracked in `.Problems.md`.
+- Project layout rules are tracked in `.project_hierarchy.md`.
+- Root `README.md` documents only repository-level structure and disclosure information.
+- Problem-specific notes and solution explanations belong in each problem folder's `README.md`.
+- If a listed problem has no available solution notes yet, only its problem folder and `src/` directory are prepared.
 
-## Notes
-- Some source files are placeholders and will be upload later during practice or organize.
+## Naming Rules
+
+- Before-class and after-class LeetCode folders use `Week##_#_LeetCode###`.
+- On-site UVa folders use `Week##_#_UVa#####`.
+- Midterm folders use `Regular_#_UVa#####` or `Bonus_#_UVa#####`.
+- Source code is placed inside each problem folder's `src/` directory.
