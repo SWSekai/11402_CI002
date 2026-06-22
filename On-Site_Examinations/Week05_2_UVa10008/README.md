@@ -6,7 +6,7 @@
 - **Problem ID:** 10008
 - **Problem Title:** What's Cryptanalysis?
 - **Problem Link:** [UVa 10008 - What's Cryptanalysis?](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=949)
-- **Source Code (Correct/Accepted):** [UVa10008.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_2_UVa10008/UVa10008.cpp)
+- **Source Code (Correct/Accepted):** [UVa10008.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_2_UVa10008/src/UVa10008.cpp)
 
 ## 2. Problem Statement in My Own Words
 

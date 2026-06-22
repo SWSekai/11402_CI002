@@ -6,7 +6,7 @@
 - **Problem ID:** 10783
 - **Problem Title:** Odd Sum
 - **Problem Link:** [UVa 10783](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=19&page=show_problem&problem=1724)
-- **Source Code (Correct/Accepted):** [UVa10783.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week03_1_UVa10783/UVa10783.cpp)
+- **Source Code (Correct/Accepted):** [UVa10783.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week03_1_UVa10783/src/UVa10783.cpp)
 
 ## 2. Problem Statement in My Own Words
 

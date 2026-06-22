@@ -6,7 +6,7 @@
 - **Problem ID:** 48
 - **Problem Title:** Rotate Image
 - **Problem Link:** https://leetcode.com/problems/rotate-image/
-- **Source Code (Correct/Accepted):** [leetcode48.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week04_2_LeetCode48/leetcode48.cpp)
+- **Source Code (Correct/Accepted):** [leetcode48.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week04_2_LeetCode48/src/leetcode48.cpp)
 
 ## 2. Problem Statement in My Own Words
 

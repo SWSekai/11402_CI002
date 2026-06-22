@@ -6,7 +6,7 @@
 - **Problem ID:** 11150
 - **Problem Title:** Cola
 - **Problem Link:** [UVa 11150 - Cola](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=23&page=show_problem&problem=2091)
-- **Source Code (Correct/Accepted):** [UVa11150.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_1_UVa11150/UVa11150.cpp)
+- **Source Code (Correct/Accepted):** [UVa11150.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_1_UVa11150/src/UVa11150.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -6,7 +6,7 @@
 - **Problem ID:** 490
 - **Problem Title:** Rotating Sentences
 - **Problem Link:** [UVa 490](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=6&page=show_problem&problem=431)
-- **Source Code (Correct/Accepted):** [UVa490.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week02_2_UVa490/UVa490.cpp)
+- **Source Code (Correct/Accepted):** [UVa490.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week02_2_UVa490/src/UVa490.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -6,7 +6,7 @@
 - **Problem ID:** 20
 - **Problem Title:** Valid Parentheses
 - **Problem Link:** https://leetcode.com/problems/valid-parentheses/
-- **Source Code (Correct/Accepted):** [leetcode20_Valid_Parentheses.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/week10_1_Leetcode20/leetcode20_Valid_Parentheses.cpp)
+- **Source Code (Correct/Accepted):** [leetcode20_Valid_Parentheses.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week10_1_LeetCode20/src/leetcode20_Valid_Parentheses.cpp)
 
 ## 2. Problem Statement in My Own Words
 

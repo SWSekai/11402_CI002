@@ -1,44 +1,45 @@
 #include <iostream>
 #include <string>
-#include<vector>
+#include <vector>
 
 using namespace std;
 
-class Solution {
+class Parity {
 public:
-	void Uva10931(int num) {
-		int parity = 0;
-		vector<int> loss;
-
-		while (num != 0) {
-			int los = num % 2;
-			num = num / 2;
-			loss.push_back(los);
-		}
-		while (true) {
-			vector<int> loss_bp;
-
-			if (loss_bp.back() == 1) parity++;
-			loss_bp.pop_back();
-
-			if (loss_bp.empty()) break;
+	static vector<int> toBinary(int num) {
+		vector<int> res;
+		while (num > 0) {
+			res.push_back(num % 2);
+			num /= 2;
 		}
 
-		cout << "The parity of ";
-		while (!loss.empty()) {
-			cout << loss.back();
-			loss.pop_back();
+		return res;
+	}
+
+	static int parityToModTwo(vector<int> num) {
+		int count = 0;
+		for (int i = 0; i < num.size(); i++) {
+			if (num[i] == 1) {
+				count++;
+			}
 		}
-		
-		 cout << " is " << parity << " (mod 2)." << endl;
+
+		return count;
 	}
 };
 
 int main() {
-	int input;
-	while (cin >> input && input != 0) {
-		Solution sol;
-		sol.Uva10931(input);
+	int num;
+	while (cin >> num && num != 0) {
+		vector<int> binary = Parity::toBinary(num);
+		int parity = Parity::parityToModTwo(binary);
+
+		cout << "The parity of ";
+		for (int i = binary.size() - 1; i >= 0; i--) {
+			cout << binary[i];
+		}
+		cout << " is " << parity << " (mod 2)."  << endl;
 	}
+
 	return 0;
 }

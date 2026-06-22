@@ -6,7 +6,7 @@
 - **Problem ID:** 704
 - **Problem Title:** Binary Search
 - **Problem Link:** https://leetcode.com/problems/binary-search/
-- **Source Code (Correct/Accepted):** [leetcode704.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week07_1_LeetCode704/leetcode704.cpp)
+- **Source Code (Correct/Accepted):** [leetcode704.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week07_1_LeetCode704/src/leetcode704.cpp)
 
 ## 2. Problem Statement in My Own Words
 

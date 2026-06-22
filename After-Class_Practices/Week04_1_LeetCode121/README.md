@@ -6,7 +6,7 @@
 - **Problem ID:** 121
 - **Problem Title:** Best Time to Buy and Sell Stock
 - **Problem Link:** https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- **Source Code (Correct/Accepted):** [leetcode121.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week04_1_LeetCode121/leetcode121.cpp)
+- **Source Code (Correct/Accepted):** [leetcode121.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week04_1_LeetCode121/src/leetcode121.cpp)
 
 ## 2. Problem Statement in My Own Words
 

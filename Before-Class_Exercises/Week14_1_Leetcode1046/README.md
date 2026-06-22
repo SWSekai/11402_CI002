@@ -6,7 +6,7 @@
 - **Problem ID:** 1046
 - **Problem Title:** Last Stone Weight
 - **Problem Link:** https://leetcode.com/problems/last-stone-weight/
-- **Source Code (Correct/Accepted):** [LeetCode1046.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before_Class/Week14_1_LeetCode1046/LeetCode1046.cpp)
+- **Source Code (Correct/Accepted):** [LeetCode1046.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week14_1_LeetCode1046/src/LeetCode1046.cpp)
 
 ---
 

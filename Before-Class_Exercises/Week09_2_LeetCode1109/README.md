@@ -6,7 +6,7 @@
 - **Problem ID:** 1109
 - **Problem Title:** Corporate Flight Bookings
 - **Problem Link:** https://leetcode.com/problems/corporate-flight-bookings/
-- **Source Code (Correct/Accepted):** [leetcode1109.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week09_2_LeetCode1109/leetcode1109.cpp)
+- **Source Code (Correct/Accepted):** [leetcode1109.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week09_2_LeetCode1109/src/leetcode1109.cpp)
 
 ## 2. Problem Statement in My Own Words
 

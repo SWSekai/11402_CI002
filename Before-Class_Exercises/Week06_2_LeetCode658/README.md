@@ -6,7 +6,7 @@
 - **Problem ID:** 658
 - **Problem Title:** Find K Closest Elements
 - **Problem Link:** https://leetcode.com/problems/find-k-closest-elements/
-- **Source Code (Correct/Accepted):** [leetcode658.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week06_2_LeetCode658/leetcode658.cpp)
+- **Source Code (Correct/Accepted):** [leetcode658.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week06_2_LeetCode658/src/leetcode658.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -6,7 +6,7 @@
 - **Problem ID:** 12503
 - **Problem Title:** Robot Instructions
 - **Problem Link:** [UVa 12503](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947)
-- **Source Code (Correct/Accepted):** [UVa12503.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_2_UVa12503/UVa12503.cpp)
+- **Source Code (Correct/Accepted):** [UVa12503.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_2_UVa12503/src/UVa12503.cpp)
 
 ## 2. Problem Statement in My Own Words
 

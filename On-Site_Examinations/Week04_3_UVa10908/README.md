@@ -6,7 +6,7 @@
 - **Problem ID:** 10908
 - **Problem Title:** Largest Square
 - **Problem Link:** [UVa 10908](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=22&page=show_problem&problem=1849)
-- **Source Code (Correct/Accepted):** [UVa10908.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_3_UVa10908/UVa10908.cpp)
+- **Source Code (Correct/Accepted):** [UVa10908.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_3_UVa10908/src/UVa10908.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -6,7 +6,7 @@
 - **Problem ID:** 6
 - **Problem Title:** Zigzag Conversion
 - **Problem Link:** https://leetcode.com/problems/zigzag-conversion/
-- **Source Code (Correct/Accepted):** [leetcode6_zigzag_conversion.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week02_2_LeetCode6/leetcode6_zigzag_conversion.cpp)
+- **Source Code (Correct/Accepted):** [leetcode6_zigzag_conversion.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week02_2_LeetCode6/src/leetcode6_zigzag_conversion.cpp)
 
 ## 2. Problem Statement in My Own Words
 

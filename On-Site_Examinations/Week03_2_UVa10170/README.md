@@ -6,7 +6,7 @@
 - **Problem ID:** 10170 [cite: 2]
 - **Problem Title:** The Hotel with Infinite Rooms [cite: 3]
 - **Problem Link:** [UVa 10170](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=13&page=show_problem&problem=1111)
-- **Source Code (Correct/Accepted):** [UVa10170.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week03_2_UVa10170/UVa10170.cpp)
+- **Source Code (Correct/Accepted):** [UVa10170.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week03_2_UVa10170/src/UVa10170.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -6,7 +6,7 @@
 - **Problem ID:** 10242
 - **Problem Title:** Fourth Point !!
 - **Problem Link:** [UVa 10242 - Fourth Point !!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1183)
-- **Source Code (Correct/Accepted):** [UVa10242.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_4_UVa10242/UVa10242.cpp)
+- **Source Code (Correct/Accepted):** [UVa10242.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week04_4_UVa10242/src/UVa10242.cpp)
 
 ## 2. Problem Statement in My Own Words
 

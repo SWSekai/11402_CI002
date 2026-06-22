@@ -6,7 +6,7 @@
 - **Problem ID:** 414
 - **Problem Title:** Third Maximum Number
 - **Problem Link:** https://leetcode.com/problems/third-maximum-number/
-- **Source Code (Correct/Accepted):** [leetcode414.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week06_1_LeetCode414/leetcode414.cpp)
+- **Source Code (Correct/Accepted):** [leetcode414.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week06_1_LeetCode414/src/leetcode414.cpp)
 
 ## 2. Problem Statement in My Own Words
 

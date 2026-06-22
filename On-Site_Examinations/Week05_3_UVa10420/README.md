@@ -6,7 +6,7 @@
 - **Problem ID:** 10420
 - **Problem Title:** List of Conquests
 - **Problem Link:** [UVa 10420 - List of Conquests](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1361)
-- **Source Code (Correct/Accepted):** [UVa10420.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_3_UVa10420/UVa10420.cpp)
+- **Source Code (Correct/Accepted):** [UVa10420.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_3_UVa10420/src/UVa10420.cpp)
 
 ## 2. Problem Statement in My Own Words
 

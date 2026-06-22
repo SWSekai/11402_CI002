@@ -6,7 +6,7 @@
 - **Problem ID:** 74
 - **Problem Title:** Search a 2D Matrix
 - **Problem Link:** https://leetcode.com/problems/search-a-2d-matrix/
-- **Source Code (Correct/Accepted):** [leetcode74.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week07_2_LeetCode74/leetcode74.cpp)
+- **Source Code (Correct/Accepted):** [leetcode74.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week07_2_LeetCode74/src/leetcode74.cpp)
 
 ## 2. Problem Statement in My Own Words
 

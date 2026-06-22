@@ -6,7 +6,7 @@
 - **Problem ID:** 31
 - **Problem Title:** Next Permutation
 - **Problem Link:** https://leetcode.com/problems/next-permutation/
-- **Source Code (Correct/Accepted):** [leetcode31.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week04_2_LeetCode31/leetcode31.cpp)
+- **Source Code (Correct/Accepted):** [leetcode31.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week04_2_LeetCode31/src/leetcode31.cpp)
 
 ## 2. Problem Statement in My Own Words
 

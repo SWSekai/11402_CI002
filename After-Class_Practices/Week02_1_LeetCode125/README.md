@@ -6,7 +6,7 @@
 - **Problem ID:** 125
 - **Problem Title:** Valid Palindrome
 - **Problem Link:** https://leetcode.com/problems/valid-palindrome/
-- **Source Code (Correct/Accepted):** [leetcode125_valid_palindrome.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week02_1_LeetCode125/leetcode125_valid_palindrome.cpp)
+- **Source Code (Correct/Accepted):** [leetcode125_valid_palindrome.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week02_1_LeetCode125/src/leetcode125_valid_palindrome.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -6,7 +6,7 @@
 - **Problem ID:** 1122
 - **Problem Title:** Relative Sort Array
 - **Problem Link:** https://leetcode.com/problems/relative-sort-array/
-- **Source Code (Correct/Accepted):** [leetcode1122.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week06_1_LeetCode1122/leetcode1122.cpp)
+- **Source Code (Correct/Accepted):** [leetcode1122.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week06_1_LeetCode1122/src/leetcode1122.cpp)
 
 ## 2. Problem Statement in My Own Words
 

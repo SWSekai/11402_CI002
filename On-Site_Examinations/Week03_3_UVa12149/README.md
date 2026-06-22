@@ -6,7 +6,7 @@
 - **Problem ID:** 12149
 - **Problem Title:** Feynman
 - **Problem Link:** [UVa 12149](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=25&page=show_problem&problem=3301)
-- **Source Code (Correct/Accepted):** [UVa12149.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week03_3_UVa12149/UVa12149.cpp)
+- **Source Code (Correct/Accepted):** [UVa12149.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week03_3_UVa12149/src/UVa12149.cpp)
 
 ## 2. Problem Statement in My Own Words
 

@@ -8,7 +8,7 @@
 - **Problem ID:** 11332
 - **Problem Title:** Summing Digits
 - **Problem Link:** [UVa 11332](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2307)
-- **Source Code (Correct/Accepted):** [UVa11332.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Midterm/UVa11332.cpp)
+- **Source Code (Correct/Accepted):** [UVa11332.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Midterm/src/UVa11332.cpp)
 
 ### 2. Problem Statement in My Own Words
 
@@ -79,7 +79,7 @@ static long long summing_digit(long long& input) {
 - **Problem ID:** 12250
 - **Problem Title:** Language Detection
 - **Problem Link:** [UVa 12250](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3398)
-- **Source Code (Correct/Accepted):** [UVa12250.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Midterm/UVa12250.cpp)
+- **Source Code (Correct/Accepted):** [UVa12250.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Midterm/src/UVa12250.cpp)
 
 ### 2. Problem Statement in My Own Words
 

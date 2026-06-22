@@ -6,7 +6,7 @@
 - **Problem ID:** 272
 - **Problem Title:** TEX Quotes
 - **Problem Link:** [UVa 272](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=4&page=show_problem&problem=208)
-- **Source Code (Correct/Accepted):** [UVa272.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week02_1_UVa272/UVa272.cpp)
+- **Source Code (Correct/Accepted):** [UVa272.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week02_1_UVa272/src/UVa272.cpp)
 
 ## 2. Problem Statement in My Own Words
 

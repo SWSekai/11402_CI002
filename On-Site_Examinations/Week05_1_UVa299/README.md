@@ -6,7 +6,7 @@
 - **Problem ID:** 299
 - **Problem Title:** Train Swapping
 - **Problem Link:** [UVa 299 - Train Swapping](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=235)
-- **Source Code (Correct/Accepted):** [UVa299.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_1_UVa299/UVa299.cpp)
+- **Source Code (Correct/Accepted):** [UVa299.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_1_UVa299/src/UVa299.cpp)
 
 ## 2. Problem Statement in My Own Words
 

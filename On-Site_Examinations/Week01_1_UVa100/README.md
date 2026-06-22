@@ -6,7 +6,7 @@
 - **Problem ID:** 100
 - **Problem Title:** The 3n + 1 Problem
 - **Problem Link:** [UVa 100](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
-- **Source Code (Correct/Accepted):** [Uva100.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week01_1_UVa100/Uva100.cpp)
+- **Source Code (Correct/Accepted):** [Uva100.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week01_1_UVa100/src/Uva100.cpp)
 
 ## 2. Problem Statement in My Own Words
 

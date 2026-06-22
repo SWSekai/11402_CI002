@@ -6,7 +6,7 @@
 - **Problem ID:** 8
 - **Problem Title:** String to Integer (atoi)
 - **Problem Link:** https://leetcode.com/problems/string-to-integer-atoi/
-- **Source Code (Correct/Accepted):** [leetcode8_String _to_Integer.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week01_2_LeetCode8/leetcode8_String%20_to_Integer.cpp)
+- **Source Code (Correct/Accepted):** [leetcode8_String _to_Integer.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week01_2_LeetCode8/src/leetcode8_String%20_to_Integer.cpp)
 
 ## 2. Problem Statement in My Own Words
 

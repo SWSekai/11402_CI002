@@ -6,7 +6,7 @@
 - **Problem ID:** 33
 - **Problem Title:** Search in Rotated Sorted Array
 - **Problem Link:** https://leetcode.com/problems/search-in-rotated-sorted-array/
-- **Source Code (Correct/Accepted):** [leetcode33.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week07_2_LeetCode33/leetcode33.cpp)
+- **Source Code (Correct/Accepted):** [leetcode33.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week07_2_LeetCode33/src/leetcode33.cpp)
 
 ## 2. Problem Statement in My Own Words
 

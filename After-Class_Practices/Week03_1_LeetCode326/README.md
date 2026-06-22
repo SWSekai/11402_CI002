@@ -6,7 +6,7 @@
 - **Problem ID:** 326
 - **Problem Title:** Power of Three
 - **Problem Link:** https://leetcode.com/problems/power-of-three/
-- **Source Code (Correct/Accepted):** [leetcode326.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week03_1_LeetCode326/leetcode326.cpp)
+- **Source Code (Correct/Accepted):** [leetcode326.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week03_1_LeetCode326/src/leetcode326.cpp)
 
 ## 2. Problem Statement in My Own Words
 

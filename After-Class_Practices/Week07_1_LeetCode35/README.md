@@ -6,7 +6,7 @@
 - **Problem ID:** 35
 - **Problem Title:** Search Insert Position
 - **Problem Link:** https://leetcode.com/problems/search-insert-position/
-- **Source Code (Correct/Accepted):** [leetcode35.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week07_1_LeetCode35/leetcode35.cpp)
+- **Source Code (Correct/Accepted):** [leetcode35.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week07_1_LeetCode35/src/leetcode35.cpp)
 
 ## 2. Problem Statement in My Own Words
 

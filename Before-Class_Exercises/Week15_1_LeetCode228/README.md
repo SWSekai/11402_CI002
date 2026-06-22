@@ -6,7 +6,7 @@
 - **Problem ID:** 228
 - **Problem Title:** Summary Ranges
 - **Problem Link:** https://leetcode.com/problems/summary-ranges/
-- **Source Code (Correct/Accepted):** [LeetCode228.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before_Class/Week15_1_LeetCode228/LeetCode228.cpp)
+- **Source Code (Correct/Accepted):** [LeetCode228.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week15_1_LeetCode228/src/LeetCode228.cpp)
 
 ---
 

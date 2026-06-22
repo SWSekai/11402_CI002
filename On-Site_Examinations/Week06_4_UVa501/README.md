@@ -6,7 +6,7 @@
 - **Problem ID:** 501
 - **Problem Title:** Black Box
 - **Problem Link:** [https://onlinejudge.org/external/5/501.pdf](https://onlinejudge.org/external/5/501.pdf)
-- **Source Code (Correct/Accepted):** [UVa501.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week06_4_UVa501/UVa501.cpp)
+- **Source Code (Correct/Accepted):** [UVa501.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week06_4_UVa501/src/UVa501.cpp)
 
 ## 2. Problem Statement in My Own Words
 

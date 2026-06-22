@@ -6,7 +6,7 @@
 - **Problem ID:** 1022
 - **Problem Title:** Sum of Root To Leaf Binary Numbers
 - **Problem Link:** https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
-- **Source Code (Correct/Accepted):** [leetcode1022_Sum_of_Root_To_Leaf_Binary_Numbers.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/week12_1_Leetcode1022/leetcode1022_Sum_of_Root_To_Leaf_Binary_Numbers.cpp)
+- **Source Code (Correct/Accepted):** [leetcode1022_Sum_of_Root_To_Leaf_Binary_Numbers.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week12_1_LeetCode1022/src/leetcode1022_Sum_of_Root_To_Leaf_Binary_Numbers.cpp)
 
 ## 2. Problem Statement in My Own Words
 

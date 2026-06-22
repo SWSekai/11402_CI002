@@ -6,7 +6,7 @@
 - **Problem ID:** 1845
 - **Problem Title:** Seat Reservation Manager
 - **Problem Link:** https://leetcode.com/problems/seat-reservation-manager/
-- **Source Code (Correct/Accepted):** [LeetCode1845.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before_Class/Week14_2_LeetCode1845/LeetCode1845.cpp)
+- **Source Code (Correct/Accepted):** [LeetCode1845.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week14_2_LeetCode1845/src/LeetCode1845.cpp)
 
 ---
 

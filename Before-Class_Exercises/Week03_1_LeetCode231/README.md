@@ -6,7 +6,7 @@
 - **Problem ID:** 231
 - **Problem Title:** Power of Two
 - **Problem Link:** https://leetcode.com/problems/power-of-two/
-- **Source Code (Correct/Accepted):** [leetcode231.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week03_1_LeetCode231/leetcode231.cpp)
+- **Source Code (Correct/Accepted):** [leetcode231.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week03_1_LeetCode231/src/leetcode231.cpp)
 
 ## 2. Problem Statement in My Own Words
 

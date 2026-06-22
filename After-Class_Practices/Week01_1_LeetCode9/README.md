@@ -6,7 +6,7 @@
 - **Problem ID:** 9
 - **Problem Title:** Palindrome Number
 - **Problem Link:** https://leetcode.com/problems/palindrome-number/
-- **Source Code (Correct/Accepted):** [leetcode9_Palindrome Number.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week01_1_LeetCode9/leetcode9_Palindrome%20Number.cpp)
+- **Source Code (Correct/Accepted):** [leetcode9_Palindrome Number.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week01_1_LeetCode9/src/leetcode9_Palindrome%20Number.cpp)
 
 ## 2. Problem Statement in My Own Words
 

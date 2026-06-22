@@ -6,7 +6,7 @@
 - **Problem ID:** 88
 - **Problem Title:** Merge Sorted Array
 - **Problem Link:** https://leetcode.com/problems/merge-sorted-array/
-- **Source Code (Correct/Accepted):** [leetcode88.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week05_1_LeetCode88/leetcode88.cpp)
+- **Source Code (Correct/Accepted):** [leetcode88.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week05_1_LeetCode88/src/leetcode88.cpp)
 
 ## 2. Problem Statement in My Own Words
 

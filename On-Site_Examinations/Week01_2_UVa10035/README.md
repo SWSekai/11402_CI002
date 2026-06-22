@@ -6,7 +6,7 @@
 - **Problem ID:** 10035
 - **Problem Title:** Primary Arithmetic
 - **Problem Link:** [UVa 10035](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=976)
-- **Source Code (Correct/Accepted):** [UVa10035.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week01_2_UVa10035/UVa10035.cpp)
+- **Source Code (Correct/Accepted):** [UVa10035.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week01_2_UVa10035/src/UVa10035.cpp)
 
 ## 2. Problem Statement in My Own Words
 

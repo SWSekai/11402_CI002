@@ -6,7 +6,7 @@
 - **Problem ID:** 349
 - **Problem Title:** Intersection of Two Arrays
 - **Problem Link:** https://leetcode.com/problems/intersection-of-two-arrays/
-- **Source Code (Correct/Accepted):** [leetcode349.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week05_1_LeetCode349/leetcode349.cpp)
+- **Source Code (Correct/Accepted):** [leetcode349.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week05_1_LeetCode349/src/leetcode349.cpp)
 
 ## 2. Problem Statement in My Own Words
 

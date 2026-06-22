@@ -6,7 +6,7 @@
 - **Problem ID:** 11136
 - **Problem Title:** Hoax or what
 - **Problem Link:** [https://onlinejudge.org/external/111/11136.pdf](https://onlinejudge.org/external/111/11136.pdf)
-- **Source Code (Correct/Accepted):** [UVa11136.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_4_UVa11136/UVa11136.cpp)
+- **Source Code (Correct/Accepted):** [UVa11136.cpp](https://github.com/SWSekai/11402_CI002/blob/main/On-Site_Examinations/Week05_4_UVa11136/src/UVa11136.cpp)
 
 ## 2. Problem Statement in My Own Words
 

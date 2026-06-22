@@ -6,7 +6,7 @@
 - **Problem ID:** 670
 - **Problem Title:** Maximum Swap
 - **Problem Link:** https://leetcode.com/problems/maximum-swap/
-- **Source Code (Correct/Accepted):** [leetcode670.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week03_2_LeetCode670/leetcode670.cpp)
+- **Source Code (Correct/Accepted):** [leetcode670.cpp](https://github.com/SWSekai/11402_CI002/blob/main/After-Class_Practices/Week03_2_LeetCode670/src/leetcode670.cpp)
 
 ## 2. Problem Statement in My Own Words
 

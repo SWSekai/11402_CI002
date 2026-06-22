@@ -19,6 +19,7 @@ public:
                 int end = nums[i];
                 string str = rangeBounding(first, end);
                 res.push_back(str);
+
                 continue;
             }
             cur++;

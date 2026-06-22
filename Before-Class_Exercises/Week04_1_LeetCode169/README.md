@@ -6,7 +6,7 @@
 - **Problem ID:** 169
 - **Problem Title:** Majority Element
 - **Problem Link:** https://leetcode.com/problems/majority-element/
-- **Source Code (Correct/Accepted):** [leetcode169.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week04_1_LeetCode169/leetcode169.cpp)
+- **Source Code (Correct/Accepted):** [leetcode169.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week04_1_LeetCode169/src/leetcode169.cpp)
 
 ## 2. Problem Statement in My Own Words
 

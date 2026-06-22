@@ -6,7 +6,7 @@
 - **Problem ID:** 724
 - **Problem Title:** Find Pivot Index
 - **Problem Link:** https://leetcode.com/problems/find-pivot-index/
-- **Source Code (Correct/Accepted):** [leetcode724.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week09_1_LeetCode724/leetcode724.cpp)
+- **Source Code (Correct/Accepted):** [leetcode724.cpp](https://github.com/SWSekai/11402_CI002/blob/main/Before-Class_Exercises/Week09_1_LeetCode724/src/leetcode724.cpp)
 
 ## 2. Problem Statement in My Own Words
 
