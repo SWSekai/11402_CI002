@@ -50,7 +50,7 @@
 
 - **平台：** [UVa Online Judge](https://onlinejudge.org/)
 - **說明：** 每週課堂中進行的限時考試，使用 UVa 題庫。考試時間有限，部分題目可能未完成（以 `-NF.cpp` 標示）。
-- **資料夾數：** 55 題（Week01 ～ Week17）
+- **資料夾數：** 59 題（Week01 ～ Week18）
 
 ### 課後作業（After-Class_Practices）
 
